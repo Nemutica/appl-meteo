@@ -1,0 +1,22 @@
+body {
+    background-color: slateblue;
+    display: flex;
+}
+
+.ville{
+height: 40px;
+}
+
+input{
+  border-radius: 120px 100px 10px;
+  height: 6em;  
+  width: 50em;
+}
+
+button{
+    border-radius: 10px 100px 120px;
+    height: 78%;
+    width: 250px;
+
+
+}
